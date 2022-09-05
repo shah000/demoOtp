@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305540001716",
+    "project_id": "otpdemoapp-5b84a",
+    "storage_bucket": "otpdemoapp-5b84a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305540001716:android:d5f700949dbc523afb8ce1",
+        "android_client_info": {
+          "package_name": "com.ripplescode.sms_autofill_flutter_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305540001716-qnhce6m409u0ivuklt7ljv0b1a1f0ha1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXYj6Vl1efsjZsSowJB_Eksvr2d4j2yAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305540001716-qnhce6m409u0ivuklt7ljv0b1a1f0ha1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
